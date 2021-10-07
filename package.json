@@ -23,6 +23,9 @@
     "@discordjs/rest": "0.1.0-canary.0",
     "discord-api-types": "^0.23.1",
     "discord.js": "^13.2.0",
-    "npm": "^7.24.2"
+    "npm": "^7.24.2",
+    "pouchdb-adapter-memory": "^7.2.2",
+    "rxdb": "^10.1.0",
+    "rxjs": "^7.4.0"
   }
 }
